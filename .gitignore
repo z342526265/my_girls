@@ -32,3 +32,4 @@ bundle_stubs/
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+! Gimefile.lock
